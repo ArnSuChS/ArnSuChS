@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArnSuChS
-- 👀 I’m interested in AI and ML, Cyber Security and Ethical Hacking, IOT, Web Development.
+- 👀 I’m interested in Networking, System Administration and Database Administration.
 - ⚡ Fun fact: I am crazy about trains
 
 <!---
